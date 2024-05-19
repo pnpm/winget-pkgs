@@ -37,3 +37,11 @@ See the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. More information is available in our [Contributing document](CONTRIBUTING.md).
 
 To avoid doubt, you may not make any Submissions linking to third-party materials if such Submission is prohibited by the applicable third party and/or otherwise violates such third party's rights.
+{
+  "address": "0:5c52db5793b221085db766085735cec763dbf7fd202e86c5a05bf6079ed1ec51",
+  "name": "Gemini",
+  "symbol": "ЦАРЬ",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/YXbzbMWVU-MU-6eCDLSB1ygETq-PI3-hysd-KwQjZc0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdG9yYWdlLmR5b3IuaW8vamV0dG9ucy9pbWFnZXMvMTcxNDMzNTgyMi8xNDkyNDg4Ni53ZWJw.webp",
+  "description": "https://sites.google.com/view/ano-center-gemini25"
+}
