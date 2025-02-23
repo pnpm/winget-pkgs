@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 v2.4.3 $debug=NVS1.CRLF.7-4-6.Win32NT
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
 
 PackageIdentifier: KDE.Akregator
@@ -9,14 +9,14 @@ ProductCode: akregator
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2135-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: C27F2AEC5A3F865CBBF7988EB62FC10FE8C003DC883018799AD5C9B0ECAC37F2
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2144-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: F70F3F76AA8CBD3F7F5FD288E48ECFD231BF6CD815119A10CA7E3CB75F5F9EEA
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2135-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: C27F2AEC5A3F865CBBF7988EB62FC10FE8C003DC883018799AD5C9B0ECAC37F2
+  InstallerUrl: https://cdn.kde.org/ci-builds/pim/akregator/master/windows/akregator-master-2144-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: F70F3F76AA8CBD3F7F5FD288E48ECFD231BF6CD815119A10CA7E3CB75F5F9EEA
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
