@@ -26,12 +26,8 @@ Tags:
 - editor
 - programming
 ReleaseNotes: |-
-  Patch Fixes
-
-  Fixes
-  - Cascade now has a new premium model available: Claude 3.7 Sonnet
-    - Takes 1.0 user prompt credits on every message and 1.0 flow action credits on each tool call
-    - Support for Claude 3.7 Sonnet ships with Thinking, with a 1.5x multiplier on credit cost.
+  Patches
+  - Fixes crashes due to permissions errors on Ubuntu 24.04
 ReleaseNotesUrl: https://codeium.com/changelog
 PurchaseUrl: https://codeium.com/pricing
 Documentations:
